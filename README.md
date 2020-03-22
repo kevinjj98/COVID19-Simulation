@@ -9,6 +9,8 @@ The first simulation ('No social distancing' folder) shows the steep, exponentia
 The second simulation ('With social distancing' folder shows how we can help flatten the curve by social distancing ourselves. Here, 3/4 of the population does not move which slows down the spread of the virus (notice the red curve is much flatter). A few dots even remained healthy and did not contract the virus at all.
 ⁣
 In the real world, this would equate to allowing hospitals to function normally and not get overwhelmed by lots of sick patients at the beginning phases of a pandemic.⁣
+
+To run either simulation, go into either folder and open the HTML file in a modern browser.
 ⁣
 
 Make sure to practice proper social distancing, washing hands for 20 seconds, covering your coughs, staying indoors, etc!⁣
