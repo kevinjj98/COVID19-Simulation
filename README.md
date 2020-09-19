@@ -14,8 +14,7 @@ To manually run either simulation, go into either folder and open the HTML file 
 ⁣
 
 Proper social distancing precautions include washing hands for at least 20 seconds, covering your coughs, staying home, and minimizing contact with others as much as possible.
-⁣
-⁣
+
 Tools used: P5.JS web editor⁣
 Programming languages used: Javascript
 ⁣
