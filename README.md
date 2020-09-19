@@ -3,7 +3,7 @@ Simulation of virus spread within a population with and without social distancin
 
 
 This is a simulation where a person is represented by a dot. Everyone starts off healthy (green) except for 1 person who starts sick (red) and can transmit the virus to other dots upon collision. After a few seconds, the sick recover (blue) and cannot get sick again nor can they re-transmit the virus.⁣
-⁣
+
 The first simulation ('No social distancing') shows the steep, exponential rise in sick dots when there is no social distancing. This is what would happen if there were no precautions taken in battling the spread of the virus.⁣
 
 ![](no_social_distancing.gif)
